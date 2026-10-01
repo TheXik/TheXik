@@ -7,7 +7,6 @@
 <p>
   <a href="https://www.linkedin.com/in/lukas-hellesch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lukas.hellesch@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TheXik&style=for-the-badge&color=1f4e79&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -83,14 +82,5 @@ I'm a software engineer and computer science student at **Charles University (MF
     </td>
   </tr>
 </table>
-
-## GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheXik&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheXik&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&langs_count=8" height="165" alt="Top languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=TheXik&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="49%" alt="Streak" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1f4e79,100:0d1117&height=100&section=footer" width="100%" />
