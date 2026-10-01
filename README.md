@@ -91,8 +91,6 @@ I'm a software engineer and computer science student at **Charles University (MF
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheXik&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&langs_count=8" height="165" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=TheXik&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="49%" alt="Streak" />
-  <br/><br/>
-  <img src="https://ghchart.rshah.org/1f4e79/TheXik" width="100%" alt="Contribution chart" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1f4e79,100:0d1117&height=100&section=footer" width="100%" />
