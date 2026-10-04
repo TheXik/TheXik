@@ -43,22 +43,14 @@ I'm a software engineer and computer science student at **Charles University (MF
       <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Majny/hackathon-cursor">👴 AI grandson (Cursor x SpaceX Hackathon)</a></h3>
-      Voice AI that talks with grandparents like a curious grandchild, remembers every conversation and turns the stories into a family archive linked to the family tree (GEDCOM).<br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/TheXik/Apify-Hackaton">🎯 Talent Scout (Apify Hackathon)</a></h3>
       Apify Actor that sources candidates from Google, LinkedIn and GitHub against a job description and ranks them with an LLM.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Apify-97D700?style=flat-square&logo=apify&logoColor=black" />
       <img src="https://img.shields.io/badge/LLM-6E56CF?style=flat-square" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/TheXik/LockIn">🔒 LockIn</a></h3>
       iOS accountability app: lock the apps that distract you, and friends review and approve every unlock. Built on Apple's Screen Time APIs.<br/><br/>
@@ -66,15 +58,15 @@ I'm a software engineer and computer science student at **Charles University (MF
       <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/TheXik/SetPacking-SatSolver">🧩 Set Packing SAT Solver</a></h3>
       Reduces the NP-complete set packing problem to SAT and solves it with the Glucose solver.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/SAT-555555?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/TheXik/EventInventoryManager">📦 Event Inventory Manager</a></h3>
       Replaces an event company's Excel sheets: inventory, rentals, drag-and-drop event calendar, truck loading and an AI assistant.<br/><br/>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
