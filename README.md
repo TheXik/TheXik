@@ -15,6 +15,7 @@
 
 I'm a software engineer and computer science student at **Charles University (MFF UK)** in Prague. I like building complete systems: a backend split into services, the app on top of it, and the infrastructure that keeps it running.
 
+- 🚀 Co-founder of **[Appnestiq](https://appnestiq.com)**: self-hosted AI for teams whose code can't go to cloud AI.
 - 🛠️ Previously a **Software Engineer at KREEDL**, building an AI due-diligence platform for venture capital funds (Python data pipelines, Next.js dashboard, Node.js services).
 - 🎓 Bachelor thesis **Ad-on-Wheels**: seven Spring Boot microservices, a SwiftUI iOS app and a React dashboard.
 - 🧠 Currently deep into **AI agents**, **distributed systems** and **cybersecurity**.
