@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4e79,100:3b82f6&height=170&section=header&text=Luk%C3%A1%C5%A1%20Hellesch&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Prague&descSize=17&descAlignY=58" width="100%" alt="Lukáš Hellesch" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f4e79,100:3b82f6&height=170&section=header&text=Luk%C3%A1%C5%A1%20Hellesch&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Prague&descSize=17&descAlignY=58" width="100%" alt="Lukáš Hellesch" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=Backend+%26+distributed+systems;AI+agents+and+LLM+pipelines;iOS+apps+in+SwiftUI;Into+cybersecurity+and+low-level+systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=AI+agents+and+LLM+pipelines;Startup+products+end+to+end;Backend+%26+distributed+systems;iOS+apps+in+SwiftUI" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/lukas-hellesch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://lukashellesch.com"><img src="https://img.shields.io/badge/Website-1F4E79?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:lukas.hellesch@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -13,7 +14,7 @@
 
 ## About me
 
-I'm a software engineer and computer science student at **Charles University (MFF UK)** in Prague. I build products end to end, from the architecture and backend services to the app people use and the infrastructure that keeps it running.
+I'm an AI engineer and computer science student at **Charles University (MFF UK)** in Prague. I build products end to end, from the architecture and backend services to the app people use and the infrastructure that keeps it running.
 
 ## Tech stack
 
@@ -60,7 +61,14 @@ I'm a software engineer and computer science student at **Charles University (MF
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3><a href="https://boletiqo.com">🍄 Boletiqo (Red Bull Basement '26)</a></h3>
+      Give it an idea and it runs the company: a team of AI agents (CEO, CTO, CMO, CFO and specialists) that plan, ship and sell. Czech national top 10 at Red Bull Basement 2026.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_agents-6E56CF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/TheXik/EventInventoryManager">📦 Event Inventory Manager</a></h3>
       Replaces an event company's Excel sheets: inventory, rentals, drag-and-drop event calendar, truck loading and an AI assistant.<br/><br/>
       <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
