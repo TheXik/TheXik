@@ -16,14 +16,6 @@
 
 I'm an AI engineer and computer science student at **Charles University (MFF UK)** in Prague. I build products end to end, from the architecture and backend services to the app people use and the infrastructure that keeps it running.
 
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,python,cs,cpp,c,swift&perline=9" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,postgres,mongodb,redis,supabase,mysql,cassandra&perline=9" alt="Frameworks and databases" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,githubactions,cloudflare,vercel&perline=9" alt="Infrastructure" />
-</p>
-
 ## Featured projects
 
 <table>
@@ -43,6 +35,26 @@ I'm an AI engineer and computer science student at **Charles University (MFF UK)
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Apify-97D700?style=flat-square&logo=apify&logoColor=black" />
       <img src="https://img.shields.io/badge/LLM-6E56CF?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Majny/airgap-mandates">🏦 AirGap Mandates (FinTechers Hackathon)</a></h3>
+      A bank's AI agent can propose payments but never move money on its own: every payment needs a mandate signed on a Trezor, and every decision lands in an audit log a supervisor can verify offline.<br/><br/>
+      Team project with <a href="https://github.com/Majny">Majny</a>. My part: product idea, testing, fixes and UI/UX.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Trezor-0F6148?style=flat-square" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Majny/hackathon-cursor">👴 Heirloom (Cursor x SpaceX Hackathon)</a></h3>
+      An AI grandson calls Grandpa, remembers every conversation and turns his stories into a family archive where every line is cited and linked to the family tree.<br/><br/>
+      Team project with <a href="https://github.com/Majny">Majny</a>. My part: product idea, testing, fixes and UI/UX.<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
     </td>
   </tr>
   <tr>
